@@ -1,0 +1,2 @@
+To Run GUI:
+vue ui
